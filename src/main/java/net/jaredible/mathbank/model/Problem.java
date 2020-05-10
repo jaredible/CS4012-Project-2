@@ -27,16 +27,15 @@ public class Problem {
 	public Problem() {
 	}
 
-	public Problem(Integer id, String content) {
-		this.id = id;
+	public Problem(String content) {
 		this.content = content;
 	}
 
-	public int getId() {
+	public Integer getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setId(Integer id) {
 		this.id = id;
 	}
 
