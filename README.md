@@ -1,10 +1,10 @@
 <p align="center">
-  <h3 align="center">CS 4012 Project 1</h3>
+  <h3 align="center">CS 4012 Project 2</h3>
   
   <p align="center">
-    A Spring web application for generating assignments in PDF!
+    A Spring web application for generating assignments!
     <br />
-    <a href="https://reporter.jaredible.net">View Demo</a>
+    <a href="https://tomcat.jaredible.net/MathBank">View Demo</a>
   </p>
 </p>
 
