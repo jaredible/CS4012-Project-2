@@ -18,8 +18,8 @@
 ## About The Project
 
 <p align="center">
-  <a href="https://github.com/jaredible/CS4012-Project-2/tree/master/screenshots/screenshot0.png">
-    <img src="https://github.com/jaredible/CS4012-Project-2/tree/master/screenshots/screenshot0.png" alt="Reporter">
+  <a href="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot0.png">
+    <img src="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot0.png" alt="Reporter">
   </a>
 </p>
 
