@@ -18,8 +18,8 @@
 ## About The Project
 
 <p align="center">
-  <a href="https://github.com/jaredible/CS4012-Project-1/blob/master/images/image0.PNG">
-    <img src="https://github.com/jaredible/CS4012-Project-1/blob/master/images/image0.PNG" alt="Reporter">
+  <a href="https://github.com/jaredible/CS4012-Project-2/tree/master/screenshots/screenshot0.png">
+    <img src="https://github.com/jaredible/CS4012-Project-2/tree/master/screenshots/screenshot0.png" alt="Reporter">
   </a>
 </p>
 
@@ -50,8 +50,8 @@ This is just an example use case. I have only prepared 3 test files, which can b
 
 Beginning on the home page, you will have no questions. This is because no questions have been uploaded into the database yet, so let's do that.
 <p align="center">
-  <a href="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot1.PNG">
-    <img src="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot1.PNG" alt="Reporter">
+  <a href="https://github.com/jaredible/CS4012-Project-2/tree/master/screenshots/screenshot1.png">
+    <img src="https://github.com/jaredible/CS4012-Project-2/tree/master/screenshots/screenshot1.png" alt="Reporter">
   </a>
 </p>
 
