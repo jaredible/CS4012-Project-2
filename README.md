@@ -50,8 +50,8 @@ This is just an example use case. I have only prepared 3 test files, which can b
 
 Beginning on the home page, you will have no questions. This is because no questions have been uploaded into the database yet, so let's do that.
 <p align="center">
-  <a href="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot1.PNG">
-    <img src="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot1.PNG" alt="Reporter">
+  <a href="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot1.PNG">
+    <img src="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot1.PNG" alt="Reporter">
   </a>
 </p>
 
@@ -62,49 +62,49 @@ Upload the 3 test files, that I have provided, in this order:
 
 The only reason for the order is because `cs4012test1.properties` contains information that references the other 2 properties files. This way, there are no errors, because we are assuming that the user knows what they are doing.
 <p align="center">
-  <a href="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot2.PNG">
-    <img src="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot2.PNG" alt="Reporter">
+  <a href="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot2.PNG">
+    <img src="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot2.PNG" alt="Reporter">
   </a>
 </p>
 
 Click the upload button.
 <p align="center">
-  <a href="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot3.PNG">
-    <img src="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot3.PNG" alt="Reporter">
+  <a href="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot3.PNG">
+    <img src="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot3.PNG" alt="Reporter">
   </a>
 </p>
 
 This page will provide 3 links that you can click to take you to the generated PDFs.
 <p align="center">
-  <a href="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot4.PNG">
-    <img src="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot4.PNG" alt="Reporter">
+  <a href="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot4.PNG">
+    <img src="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot4.PNG" alt="Reporter">
   </a>
 </p>
 
 The generated homework PDF from `cs4012homework1.properties`.
 <p align="center">
-  <a href="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot5.PNG">
-    <img src="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot5.PNG" alt="Reporter">
+  <a href="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot5.PNG">
+    <img src="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot5.PNG" alt="Reporter">
   </a>
 </p>
 
 The generated quiz PDF from `cs4012quiz1.properties`.
 <p align="center">
-  <a href="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot.PNG">
-    <img src="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot6.PNG" alt="Reporter">
+  <a href="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot.PNG">
+    <img src="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot6.PNG" alt="Reporter">
   </a>
 </p>
 
 The generated test PDF from `cs4012test1.properties`.
 <p align="center">
-  <a href="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot7.PNG">
-    <img src="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot7.PNG" alt="Reporter">
+  <a href="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot7.PNG">
+    <img src="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot7.PNG" alt="Reporter">
   </a>
 </p>
 
 The home page will now have questions since you uploaded the 3 properties file's questions into the database.
 <p align="center">
-  <a href="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot8.PNG">
-    <img src="https://github.com/jaredible/CS4012-Project-1/blob/master/screenshots/screenshot8.PNG" alt="Reporter">
+  <a href="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot8.PNG">
+    <img src="https://github.com/jaredible/CS4012-Project-2/blob/master/screenshots/screenshot8.PNG" alt="Reporter">
   </a>
 </p>
